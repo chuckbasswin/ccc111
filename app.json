@@ -1,0 +1,18 @@
+{
+    "name": "VV",
+    "description": "Heroku",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "951f58a1-1b0c-410a-938d-aeb2b7c590ec"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/chuckbasswin/ccc111",
+    "stack": "container"
+}
